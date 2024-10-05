@@ -3,7 +3,7 @@
 # to the metric equivalent in metric tons, kilograms, and grams.
 
 """
-Student Name:    Andrew Beaver
+Student Name:   Andrew Beaver
 Program Title:  Metric Converter
 Description:    Assignment 1 Program 3
 """
